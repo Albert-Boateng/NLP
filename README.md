@@ -1,3 +1,3 @@
 NLP Codes
 
-Sexism Test Classification
+Sexism Text Classification
